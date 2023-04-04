@@ -1,7 +1,10 @@
 # Python-Tutorial
 
-A short tutorial on basic Python, aimed at university students.  It contains an
-introduction to:
+A short tutorial on basic Python, aimed at university students.
+
+![Python logo](python-logo.png)
+
+It contains an introduction to:
 
 * [Python and Jupyter notebooks](https://github.com/pzuehlke/Python-Tutorial/blob/main/1-about_python_and_jupyter_notebooks.ipynb)
 * [Basic types and operations](https://github.com/pzuehlke/Python-Tutorial/blob/main/2-variables_types_and_basic_operators.ipynb)
