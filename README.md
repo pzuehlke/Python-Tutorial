@@ -1,7 +1,8 @@
 # Python-Tutorial <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="18"> 
 
-A short tutorial on basic Python 3 interspersed with several exercises, aimed at
-university students. It contains an introduction to the following topics:
+A short tutorial on basic Python 3 interspersed with several exercises, intended
+as a fast-paced introduction to Python and to programming for undergraduate
+students. It discusses the following topics:
 
 * [Python and Jupyter notebooks](https://github.com/pzuehlke/Python-Tutorial/blob/main/1-about_python_and_jupyter_notebooks.ipynb)
 * [Basic types and operations](https://github.com/pzuehlke/Python-Tutorial/blob/main/2-variables_types_and_basic_operators.ipynb)
