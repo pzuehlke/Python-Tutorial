@@ -12,4 +12,7 @@ students. It discusses the following topics:
 * [Functions and modules](https://github.com/pzuehlke/Python-Tutorial/blob/main/6-functions_and_modules.ipynb)
 * [Basic plotting with Matplotlib](https://github.com/pzuehlke/Python-Tutorial/blob/main/7-introduction_to_matplotlib.ipynb)
 
+## Textbook recommendation:
+
+* Zelle, John — [_Python Programming: An Introduction to Computer Science_](https://mcsp.wartburg.edu/zelle/python), 3rd ed. (2016) — Franklin, Beedle & Associates
 
