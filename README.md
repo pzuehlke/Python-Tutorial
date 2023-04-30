@@ -6,11 +6,11 @@ students. It discusses the following topics:
 
 * [Python and Jupyter notebooks](https://github.com/pzuehlke/Python-Tutorial/blob/main/1-about_python_and_jupyter_notebooks.ipynb)
 * [Basic types and operations](https://github.com/pzuehlke/Python-Tutorial/blob/main/2-basic_types_and_operations.ipynb)
-* [Basic iterable types (lists, tuples, strings, sets)](https://github.com/pzuehlke/Python-Tutorial/blob/main/3-strings_lists_and_tuples.ipynb)
-* [Conditional statements](https://github.com/pzuehlke/Python-Tutorial/blob/main/4-conditionals_and_list_comprehensions.ipynb)
-* [Loops (`for` and `while`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/5-for_and_while.ipynb)
+* [Iterables (strings, lists, tuples, dictionaries, sets)](https://github.com/pzuehlke/Python-Tutorial/blob/main/3-iterables.ipynb)
+* [Decision structures (`if`, `else`, `elif`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/4-decision_structures.ipynb)
+* [Loop structures (`for` and `while`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/5-loop_structures.ipynb)
 * [Functions and modules](https://github.com/pzuehlke/Python-Tutorial/blob/main/6-functions_and_modules.ipynb)
-* [Basic plotting with Matplotlib](https://github.com/pzuehlke/Python-Tutorial/blob/main/7-introduction_to_matplotlib.ipynb)
+* [Introduction to Matplotlib](https://github.com/pzuehlke/Python-Tutorial/blob/main/7-introduction_to_matplotlib.ipynb)
 
 ## Textbook recommendation:
 
