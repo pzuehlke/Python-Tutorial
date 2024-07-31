@@ -11,7 +11,6 @@ students. It discusses the following topics:
 * [Decision structures (`if`-`else`-`elif` and `match`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/5-decision_structures.ipynb)
 * [Loop structures (`for` and `while`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/6-loop_structures.ipynb)
 * [Functions and modules](https://github.com/pzuehlke/Python-Tutorial/blob/main/7-functions_and_modules.ipynb)
-* [Introduction to Matplotlib](https://github.com/pzuehlke/Python-Tutorial/blob/main/8-introduction_to_matplotlib.ipynb)
 
 ## Textbook recommendation:
 
