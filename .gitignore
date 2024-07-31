@@ -1,3 +1,5 @@
 *.swp
 .ipynb_checkpoints
 .gitignore
+grafico.png
+8-introduction_to_matplotlib
